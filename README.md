@@ -1,1 +1,1 @@
-# My-python-projects
+# simpe-calculator
